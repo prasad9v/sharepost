@@ -1,1 +1,10 @@
+.menu{
+  display:flex;
+  
+}
 
+.links{
+  display:flex;
+  list-style:none;
+  display: inline-block;
+}
